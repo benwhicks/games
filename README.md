@@ -4,6 +4,8 @@ A public page for my game development.
 
 # Contranymium
 
+[Contranymium.md]
+
 # Windward
 
 In development. 
