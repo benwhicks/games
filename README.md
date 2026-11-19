@@ -4,7 +4,7 @@ A public page for my game development.
 
 # Contranymium
 
-[Contranymium.md]
+[Contranymium](Contranymium.md)
 
 # Windward
 
