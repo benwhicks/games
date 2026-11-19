@@ -1,4 +1,4 @@
-# Contranymium
+![Contranymium](contranymium-header-3840-1646.png)
 
 Contranymium is a word game where the score comes from what your words mean, not from rare letters. Every word you play is compared with the words already on the board. The more closely it fits the board’s growing theme, the more it’s worth. 
 
